@@ -1,26 +1,26 @@
 [
   {
-    "question": "hehhehh which HTML element do we put the JavaScript??",
-    "choice1": "<script>",
-    "choice2": "<javascript>",
-    "choice3": "<js>",
-    "choice4": "<scripting>",
-    "answer": 1
+    "question": "What is an operating system?",
+    "choice1": "interface between the hardware and application programs",
+    "choice2": "collection of programs that manages hardware resources",
+    "choice3": "system service provider to the application programs",
+    "choice4": "all of the mentioned",
+    "answer": 4
   },
   {
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "choice1": "<script href='xxx.js'>",
-    "choice2": "<script name='xxx.js'>",
-    "choice3": "<script src='xxx.js'>",
-    "choice4": "<script file='xxx.js'>",
+    "question": "What is the main function of the command interpreter?",
+    "choice1": "to provide the interface between the API and application program",
+    "choice2": "to handle the files in the operating system",
+    "choice3": "to get and execute the next user-specified command",
+    "choice4": "none of the mentioned",
     "answer": 3
   },
   {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
+    "question": "In Operating Systems, which of the following is/are CPU scheduling algorithms?",
+    "choice1": "Priority",
+    "choice2": "Round Robin",
+    "choice3": "Shortest Job First",
+    "choice4": "All of the mentioned",
     "answer": 4
   }
 ]
