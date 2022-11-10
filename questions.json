@@ -1,0 +1,250 @@
+[
+  {
+    "question": "What is an operating system?",
+    "choice1": "interface between the hardware and application programs",
+    "choice2": "collection of programs that manages hardware resources",
+    "choice3": "system service provider to the application programs",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "What is the main function of the command interpreter?",
+    "choice1": "to provide the interface between the API and application program",
+    "choice2": "to handle the files in the operating system",
+    "choice3": "to get and execute the next user-specified command",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "In Operating Systems, which of the following is/are CPU scheduling algorithms?",
+    "choice1": "Priority",
+    "choice2": "Round Robin",
+    "choice3": "Shortest Job First",
+    "choice4": "All of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "To access the services of the operating system, the interface is provided by the ___________",
+    "choice1": "Library",
+    "choice2": "System calls",
+    "choice3": "Assembly instructions",
+    "choice4": "API",
+    "answer": 2
+  },
+  {
+    "question": "CPU scheduling is the basis of ___________",
+    "choice1": "multiprogramming operating systems",
+    "choice2": "larger memory sized systems",
+    "choice3": "multiprocessor systems",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": " Which one of the following is not true?",
+    "choice1": "kernel remains in the memory during the entire computer session",
+    "choice2": "kernel is made of various modules which can not be loaded in running operating system",
+    "choice3": "kernel is the first part of the operating system to load into memory during booting",
+    "choice4": "kernel is the program that constitutes the central core of the operating system",
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following errors will be handle by the operating system?",
+    "choice1": "lack of paper in printer",
+    "choice2": "connection failure in the network",
+    "choice3": "power failure",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "Where is the operating system placed in the memory?",
+    "choice1": "either low or high memory (depending on the location of interrupt vector",
+    "choice2": "in the low memory",
+    "choice3": "in the high memory",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "If a process fails, most operating system write the error information to a ______",
+    "choice1": "new file",
+    "choice2": "another running process",
+    "choice3": "log file",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following is not a real time operating system?",
+    "choice1": "RTLinux",
+    "choice2": " Palm OS",
+    "choice3": "QNX",
+    "choice4": "VxWorks",
+    "answer": 2
+  },
+  {
+    "question": "What does OS X has?",
+    "choice1": "monolithic kernel with modules",
+    "choice2": "microkernel",
+    "choice3": "monolithic kernel",
+    "choice4": "hybrid kernel",
+    "answer": 4
+  },
+  {
+    "question": "In operating system, each process has its own __________",
+    "choice1": "open files",
+    "choice2": "pending alarms, signals, and signal handlers",
+    "choice3": "address space and global variables",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "In a timeshare operating system, when the time slot assigned to a process is completed, the process switches from the current state to?",
+    "choice1": "Suspended state",
+    "choice2": "Terminated state",
+    "choice3": "Ready state",
+    "choice4": "Blocked state",
+    "answer": 3
+  },
+  {
+    "question": "Cascading termination refers to the termination of all child processes if the parent process terminates ______Cascading termination refers to the termination of all child processes if the parent process terminates ______",
+    "choice1": "Normally or abnormally",
+    "choice2": "Abnormally",
+    "choice3": "Normally",
+    "choice4": "None of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "When a process is in a “Blocked” state waiting for some I/O service. When the service is completed, it goes to the __________?",
+    "choice1": "Terminated state",
+    "choice2": "Suspended state",
+    "choice3": "Running state",
+    "choice4": "Ready state",
+    "answer": 4
+  },
+  {
+    "question": "Transient operating system code is a code that ____________",
+    "choice1": "stays in the memory always",
+    "choice2": "never enters the memory space",
+    "choice3": "comes and goes as needed",
+    "choice4": "is not easily accessible",
+    "answer": 3
+  },
+  {
+    "question": "The portion of the process scheduler in an operating system that dispatches processes is concerned with ____________",
+    "choice1": "assigning ready processes to waiting queue",
+    "choice2": "assigning running processes to blocked queue",
+    "choice3": "assigning ready processes to CPU",
+    "choice4": "all of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "The FCFS algorithm is particularly troublesome for ___________?",
+    "choice1": "operating systems",
+    "choice2": "multiprocessor systems",
+    "choice3": "time sharing systems",
+    "choice4": "multiprogramming systems",
+    "answer": 3
+  },
+  {
+    "question": "For an effective operating system, when to check for deadlock?",
+    "choice1": "every time a resource request is made at fixed time intervals",
+    "choice2": "at fixed time intervals",
+    "choice3": "ery time a resource request is made",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "A deadlock avoidance algorithm dynamically examines the __________ to ensure that a circular wait condition can never exist",
+    "choice1": "operating system",
+    "choice2": "resources",
+    "choice3": "system storage state",
+    "choice4": "resource allocation state",
+    "answer": 4
+  },
+  {
+    "question": "Swapping _______ be done when a process has pending I/O, or has to execute I/O operations only into operating system buffers",
+    "choice1": "must never",
+    "choice2": "maybe",
+    "choice3": "can",
+    "choice4": "must",
+    "answer": 1
+  },
+  {
+    "question": "The main memory accommodates ____________?",
+    "choice1": "cpu",
+    "choice2": "user processes",
+    "choice3": "operating system",
+    "choice4": "all of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "The operating system is responsible for?",
+    "choice1": "bad-block recovery",
+    "choice2": "booting from disk",
+    "choice3": "disk initialization",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": " The operating system and the other processes are protected from being modified by an already running process because ____________",
+    "choice1": "every address generated by the CPU is being checked against the relocation and limit registers",
+    "choice2": "they have a protection algorithm",
+    "choice3": "they are in different memory spaces",
+    "choice4": "they are in different logical addresses",
+    "answer": 1
+  },
+  {
+    "question": "Using transient code, _______ the size of the operating system during program execution.",
+    "choice1": "maintains",
+    "choice2": "changes",
+    "choice3": "increases",
+    "choice4": "decreases",
+    "answer": 2
+  },
+  {
+    "question": "The operating system maintains a ______ table that keeps track of how many frames have been allocated, how many are there, and how many are available.",
+    "choice1": "memory",
+    "choice2": "mapping",
+    "choice3": "page",
+    "choice4": "frame",
+    "answer": 4
+  },
+  {
+    "question": "To obtain better memory utilization, dynamic loading is used. With dynamic loading, a routine is not loaded until it is called. For implementing dynamic loading ____________",
+    "choice1": "special support from operating system is essential",
+    "choice2": " special support from hardware is required",
+    "choice3": "user programs can implement dynamic loading without any special support from hardware or operating system",
+    "choice4": "special support from both hardware and operating system is essential",
+    "answer": 3
+  },
+  {
+    "question": "The _________ presents a uniform device-access interface to the I/O subsystem, much as system calls provide a standard interface between the application and the operating system.",
+    "choice1": "Device drivers",
+    "choice2": "I/O systems",
+    "choice3": "Devices",
+    "choice4": "Buses",
+    "answer": 1
+  },
+  {
+    "question": "In real time operating system ____________",
+    "choice1": "process scheduling can be done only once",
+    "choice2": "all processes have the same priority",
+    "choice3": "kernel is not required",
+    "choice4": "a task must be serviced by its deadline period",
+    "answer": 4
+  },
+  {
+    "question": "For real time operating systems, interrupt latency should be ____________",
+    "choice1": "zero",
+    "choice2": "minimal",
+    "choice3": "maximum",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  }
+]
