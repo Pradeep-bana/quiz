@@ -1,0 +1,434 @@
+[
+  {
+    "question": "What is an operating system?",
+    "choice1": "interface between the hardware and application programs",
+    "choice2": "collection of programs that manages hardware resources",
+    "choice3": "system service provider to the application programs",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "What is the main function of the command interpreter?",
+    "choice1": "to provide the interface between the API and application program",
+    "choice2": "to handle the files in the operating system",
+    "choice3": "to get and execute the next user-specified command",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "In Operating Systems, which of the following is/are CPU scheduling algorithms?",
+    "choice1": "Priority",
+    "choice2": "Round Robin",
+    "choice3": "Shortest Job First",
+    "choice4": "All of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "To access the services of the operating system, the interface is provided by the ___________",
+    "choice1": "Library",
+    "choice2": "System calls",
+    "choice3": "Assembly instructions",
+    "choice4": "API",
+    "answer": 2
+  },
+  {
+    "question": "CPU scheduling is the basis of ___________",
+    "choice1": "multiprogramming operating systems",
+    "choice2": "larger memory sized systems",
+    "choice3": "multiprocessor systems",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": " Which one of the following is not true?",
+    "choice1": "kernel remains in the memory during the entire computer session",
+    "choice2": "kernel is made of various modules which can not be loaded in running operating system",
+    "choice3": "kernel is the first part of the operating system to load into memory during booting",
+    "choice4": "kernel is the program that constitutes the central core of the operating system",
+    "answer": 2
+  },
+  {
+    "question": "Which one of the following errors will be handle by the operating system?",
+    "choice1": "lack of paper in printer",
+    "choice2": "connection failure in the network",
+    "choice3": "power failure",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "Where is the operating system placed in the memory?",
+    "choice1": "either low or high memory (depending on the location of interrupt vector",
+    "choice2": "in the low memory",
+    "choice3": "in the high memory",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "If a process fails, most operating system write the error information to a ______",
+    "choice1": "new file",
+    "choice2": "another running process",
+    "choice3": "log file",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "Which one of the following is not a real time operating system?",
+    "choice1": "RTLinux",
+    "choice2": " Palm OS",
+    "choice3": "QNX",
+    "choice4": "VxWorks",
+    "answer": 2
+  },
+  {
+    "question": "What does OS X has?",
+    "choice1": "monolithic kernel with modules",
+    "choice2": "microkernel",
+    "choice3": "monolithic kernel",
+    "choice4": "hybrid kernel",
+    "answer": 4
+  },
+  {
+    "question": "In operating system, each process has its own __________",
+    "choice1": "open files",
+    "choice2": "pending alarms, signals, and signal handlers",
+    "choice3": "address space and global variables",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": "In a timeshare operating system, when the time slot assigned to a process is completed, the process switches from the current state to?",
+    "choice1": "Suspended state",
+    "choice2": "Terminated state",
+    "choice3": "Ready state",
+    "choice4": "Blocked state",
+    "answer": 3
+  },
+  {
+    "question": "Cascading termination refers to the termination of all child processes if the parent process terminates ______Cascading termination refers to the termination of all child processes if the parent process terminates ______",
+    "choice1": "Normally or abnormally",
+    "choice2": "Abnormally",
+    "choice3": "Normally",
+    "choice4": "None of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "When a process is in a “Blocked” state waiting for some I/O service. When the service is completed, it goes to the __________?",
+    "choice1": "Terminated state",
+    "choice2": "Suspended state",
+    "choice3": "Running state",
+    "choice4": "Ready state",
+    "answer": 4
+  },
+  {
+    "question": "Transient operating system code is a code that ____________",
+    "choice1": "stays in the memory always",
+    "choice2": "never enters the memory space",
+    "choice3": "comes and goes as needed",
+    "choice4": "is not easily accessible",
+    "answer": 3
+  },
+  {
+    "question": "The portion of the process scheduler in an operating system that dispatches processes is concerned with ____________",
+    "choice1": "assigning ready processes to waiting queue",
+    "choice2": "assigning running processes to blocked queue",
+    "choice3": "assigning ready processes to CPU",
+    "choice4": "all of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "The FCFS algorithm is particularly troublesome for ___________?",
+    "choice1": "operating systems",
+    "choice2": "multiprocessor systems",
+    "choice3": "time sharing systems",
+    "choice4": "multiprogramming systems",
+    "answer": 3
+  },
+  {
+    "question": "For an effective operating system, when to check for deadlock?",
+    "choice1": "every time a resource request is made at fixed time intervals",
+    "choice2": "at fixed time intervals",
+    "choice3": "ery time a resource request is made",
+    "choice4": "none of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "A deadlock avoidance algorithm dynamically examines the __________ to ensure that a circular wait condition can never exist",
+    "choice1": "operating system",
+    "choice2": "resources",
+    "choice3": "system storage state",
+    "choice4": "resource allocation state",
+    "answer": 4
+  },
+  {
+    "question": "Swapping _______ be done when a process has pending I/O, or has to execute I/O operations only into operating system buffers",
+    "choice1": "must never",
+    "choice2": "maybe",
+    "choice3": "can",
+    "choice4": "must",
+    "answer": 1
+  },
+  {
+    "question": "The main memory accommodates ____________?",
+    "choice1": "cpu",
+    "choice2": "user processes",
+    "choice3": "operating system",
+    "choice4": "all of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "The operating system is responsible for?",
+    "choice1": "bad-block recovery",
+    "choice2": "booting from disk",
+    "choice3": "disk initialization",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  },
+  {
+    "question": " The operating system and the other processes are protected from being modified by an already running process because ____________",
+    "choice1": "every address generated by the CPU is being checked against the relocation and limit registers",
+    "choice2": "they have a protection algorithm",
+    "choice3": "they are in different memory spaces",
+    "choice4": "they are in different logical addresses",
+    "answer": 1
+  },
+  {
+    "question": "Using transient code, _______ the size of the operating system during program execution.",
+    "choice1": "maintains",
+    "choice2": "changes",
+    "choice3": "increases",
+    "choice4": "decreases",
+    "answer": 2
+  },
+  {
+    "question": "The operating system maintains a ______ table that keeps track of how many frames have been allocated, how many are there, and how many are available.",
+    "choice1": "memory",
+    "choice2": "mapping",
+    "choice3": "page",
+    "choice4": "frame",
+    "answer": 4
+  },
+  {
+    "question": "To obtain better memory utilization, dynamic loading is used. With dynamic loading, a routine is not loaded until it is called. For implementing dynamic loading ____________",
+    "choice1": "special support from operating system is essential",
+    "choice2": " special support from hardware is required",
+    "choice3": "user programs can implement dynamic loading without any special support from hardware or operating system",
+    "choice4": "special support from both hardware and operating system is essential",
+    "answer": 3
+  },
+  {
+    "question": "The _________ presents a uniform device-access interface to the I/O subsystem, much as system calls provide a standard interface between the application and the operating system.",
+    "choice1": "Device drivers",
+    "choice2": "I/O systems",
+    "choice3": "Devices",
+    "choice4": "Buses",
+    "answer": 1
+  },
+  {
+    "question": "In real time operating system ____________",
+    "choice1": "process scheduling can be done only once",
+    "choice2": "all processes have the same priority",
+    "choice3": "kernel is not required",
+    "choice4": "a task must be serviced by its deadline period",
+    "answer": 4
+  },
+  {
+    "question": " For real time operating systems, interrupt latency should be ____________",
+    "choice1": "zero",
+    "choice2": "minimal",
+    "choice3": "maximum",
+    "choice4": "dependent on the scheduling",
+    "answer": 2
+  },
+  {
+    "question": "The priority of a process will ______________ if the scheduler assigns it a static priority.",
+    "choice1": "depends on the operating system",
+    "choice2": "change",
+    "choice3": "remain unchanged",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+  {
+    "question": "What are the characteristics of Host based IDS?",
+    "choice1": "It is programmed to interpret a certain series of packets",
+    "choice2": "It models the normal usage of the network as a noise characterization",
+    "choice3": "They are integrated closely with the TCP/IP stack and watch packets",
+    "choice4": "The host operating system logs in the audit information",
+    "answer": 3
+  },
+  {
+    "question": "The information about all files is kept in ____________",
+    "choice1": "operating system",
+    "choice2": "separate directory structure",
+    "choice3": "swap space",
+    "choice4": "none of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "The operating system keeps a small table containing information about all open files called ____________",
+    "choice1": "file table",
+    "choice2": "directory table",
+    "choice3": "open-file table",
+    "choice4": "system table",
+    "answer": 3
+  },
+  {
+    "question": "What will happen in the single level directory?",
+    "choice1": "All files are contained in the same directory",
+    "choice2": "All files are contained in different directories all at the same level",
+    "choice3": "Depends on the operating system",
+    "choice4": "None of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "To recover from failures in the network operations _____________ information may be maintained",
+    "choice1": "operating system",
+    "choice2": "ip address",
+    "choice3": "stateless",
+    "choice4": "state",
+    "answer": 4
+  },
+  {
+    "question": "On systems where there are multiple operating system, the decision to load a particular one is done by _____________",
+    "choice1": "process control block",
+    "choice2": "file control block",
+    "choice3": "boot loader",
+    "choice4": "bootstrap",
+    "answer": 3
+  },
+  {
+    "question": " Whenever a process needs I/O to or from a disk it issues a ______________",
+    "choice1": "system call to the operating system",
+    "choice2": "a special procedure",
+    "choice3": "system call to the CPU",
+    "choice4": "all of the mentioned",
+    "answer": 1
+  },
+  {
+    "question": "The two steps the operating system takes to use a disk to hold its files are _______ and ________",
+    "choice1": "caching & logical formatting",
+    "choice2": "logical formatting & swap space creation",
+    "choice3": "swap space creation & caching",
+    "choice4": "partitioning & logical formatting",
+    "answer": 4
+  },
+  {
+    "question": "The _______ program initializes all aspects of the system, from CPU registers to device controllers and the contents of main memory, and then starts the operating system.",
+    "choice1": "bootstrap",
+    "choice2": "main",
+    "choice3": "bootloader",
+    "choice4": "rom",
+    "answer": 3
+  },
+  {
+    "question": "Network operating system runs on ___________",
+    "choice1": "every system in the network",
+    "choice2": "server",
+    "choice3": "both server and every system in the network",
+    "choice4": "none of the mentioned",
+    "answer": 2
+  },
+  {
+    "question": "What is the full form of DBMS?",
+    "choice1": "Data of Binary Management System",
+    "choice2": "Database Management System",
+    "choice3": "Database Management Service",
+    "choice4": "Data Backup Management System",
+    "answer": 2
+  },
+  {
+    "question": " What is a database?",
+    "choice1": "Organized collection of information that cannot be accessed, updated, and managed",
+    "choice2": "Collection of data or information without organizing",
+    "choice3": "Organized collection of data or information that can be accessed, updated, and managed",
+    "choice4": "Organized collection of data that cannot be updated",
+    "answer": 3
+  },
+  {
+    "question": "What is DBMS?",
+    "choice1": "DBMS is a collection of queries",
+    "choice2": "DBMS is a high-level language",
+    "choice3": "DBMS is a programming language",
+    "choice4": "DBMS stores, modifies and retrieves data",
+    "answer": 4
+  },
+  {
+    "question": "Who created the first DBMS?",
+    "choice1": "Edgar Frank Codd",
+    "choice2": "Charles Bachman",
+    "choice3": "Charles Babbage",
+    "choice4": "Sharon B. Codd",
+    "answer": 2
+  },
+  {
+    "question": "Which type of data can be stored in the database?",
+    "choice1": "Image oriented data",
+    "choice2": "Text, files containing data",
+    "choice3": "Data in the form of audio or video",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "In which of the following formats data is stored in the database management system?",
+    "choice1": "Image",
+    "choice2": "Text",
+    "choice3": "Table",
+    "choice4": "Graph",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not a type of database?",
+    "choice1": "Hierarchical",
+    "choice2": "Network",
+    "choice3": "Distributed",
+    "choice4": "Decentralized",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is not an example of DBMS?",
+    "choice1": "MySQL",
+    "choice2": "Microsoft Acess",
+    "choice3": "IBM DB2",
+    "choice4": "Google",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is a feature of DBMS?",
+    "choice1": "Minimum Duplication and Redundancy of Data",
+    "choice2": "High Level of Security",
+    "choice3": "Single-user Access only",
+    "choice4": "Support ACID Property",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is a feature of the database?",
+    "choice1": "No-backup for the data stored",
+    "choice2": "User interface provided",
+    "choice3": "Lack of Authentication",
+    "choice4": "Store data in multiple locations",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a function of the database?",
+    "choice1": "Managing stored data",
+    "choice2": "Manipulating data",
+    "choice3": "Security for stored data",
+    "choice4": "Analysing code",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is a function of the DBMS?",
+    "choice1": "Storing data",
+    "choice2": "Providing multi-users access control",
+    "choice3": "Data Integrity",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is a component of the DBMS?",
+    "choice1": "Data",
+    "choice2": "Data Languages",
+    "choice3": "Data Manager",
+    "choice4": "All of the above",
+    "answer": 4
+  }
+]
