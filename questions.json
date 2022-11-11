@@ -230,21 +230,5 @@
     "choice3": "kernel is not required",
     "choice4": "a task must be serviced by its deadline period",
     "answer": 4
-  },
-  {
-    "question": "For real time operating systems, interrupt latency should be ____________",
-    "choice1": "zero",
-    "choice2": "minimal",
-    "choice3": "maximum",
-    "choice4": "alert('Hello World');",
-    "answer": 4
-  },
-  {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
-    "answer": 4
   }
 ]
