@@ -1,3 +1,178 @@
 [
-  
+    {
+        "question": "AICC िा पूर्य रूप क्या है ?",
+        "choice1": "All India Congress Committee",
+        "choice2": "All India Campaign Council",
+        "choice3": "All India campaign cutoff",
+        "choice4": "None of the above",
+        "answer": 1
+      },
+      {
+        "question": "AIR िा पूर्य रूप क्या है ?",
+        "choice1": "All indian Right",
+        "choice2": "All India Radio (imp.)",
+        "choice3": "All illogical Regards",
+        "choice4": "None of the above",
+        "answer": 2
+      },
+      {
+        "question": "AITUC िा पूर्य रूप क्या है ?",
+        "choice1": "All india Trade Union campaign",
+        "choice2": "All india Trade Union County",
+        "choice3": "All India Trade Union Congress",
+        "choice4": "none of the mentioned",
+        "answer": 3
+      },
+      {
+        "question": "ALH िा पूर्य रूप क्या है ?",
+        "choice1": "Advanced Light Helicopter",
+        "choice2": "Advanced Lower height",
+        "choice3": "Above lower Height",
+        "choice4": "None of the above",
+        "answer": 1
+      },
+      {
+        "question": "AM िा पूर्य रूप क्या है ?",
+        "choice1": "After Morning",
+        "choice2": "After meals",
+        "choice3": "Anti Meridian (Before Noon)",
+        "choice4": "None of the above",
+        "answer": 3
+      },
+      {
+        "question": "ASEAN िा पूर्य रूप क्या है ?",
+        "choice1": "Association of South England all nations",
+        "choice2": "Association of South East Asian Nations",
+        "choice3": "Association of South East American nation",
+        "choice4": "none of the mentioned",
+        "answer": 2
+      },
+      {
+        "question": "ASI िा पूर्य रूप क्या है ?",
+        "choice1": "Archaeology survey of Indonesia",
+        "choice2": "Archaeological Survey of India",
+        "choice3": "Architecture survey information",
+        "choice4": "None of the above",
+        "answer": 2
+      },
+      {
+        "question": "BCG िा पूर्य रूप क्या है ?",
+        "choice1": "Bolte check Gordon",
+        "choice2": "Bacillus claim Guerrero",
+        "choice3": "Bacillus Calmette Guerin (Anti TB Vaccine)",
+        "choice4": "all of the mentioned",
+        "answer": 3
+      },
+      {
+        "question": "BEL िा पूर्य रूप क्या है ?",
+        "choice1": "Bharat Electronics Limited",
+        "choice2": "Business environment limited",
+        "choice3": "Bank environment limited",
+        "choice4": "none of the mentioned",
+        "answer": 1
+      },
+      {
+        "question": "BIS िा पूर्य रूप क्या है ?",
+        "choice1": "Bank of Indian settlemen",
+        "choice2": "Bank for International Settlements",
+        "choice3": "Bank of Israel Settlement",
+        "choice4": "none of the mentioned",
+        "answer": 2
+      },
+      {
+        "question": "BIS िा पूर्य रूप क्या है ?",
+        "choice1": "Bureau of Indian Standards/ British Information Service (imp.)",
+        "choice2": "Bueau of Inner standard",
+        "choice3": "Bureau of Istanbul",
+        "choice4": "None of the above",
+        "answer": 1
+      },
+      {
+        "question": "BRL िा पूर्य रूप क्या है ?",
+        "choice1": "Back reference limited",
+        "choice2": "Between Right Lexington",
+        "choice3": "Bharat Refineries Ltd",
+        "choice4": "None of the above",
+        "answer": 3
+      },
+      {
+        "question": "BSF िा पूर्य रूप क्या है ?",
+        "choice1": "Border Security Force",
+        "choice2": "Border Staff Force",
+        "choice3": "Berder segment Force",
+        "choice4": "None of the above",
+        "answer": 1
+      },
+      {
+        "question": "CBDT िा पूर्य रूप क्या है ? (imp.)",
+        "choice1": "Central Bank of Debit Transmission",
+        "choice2": "Central Board of Direct Taxes",
+        "choice3": "Central Board of Direct telecommunications",
+        "choice4": "None of the above",
+        "answer": 2
+      },
+      {
+        "question": "CBI िा पूर्य रूप क्या है ? (imp.)",
+        "choice1": "Central Bank of India",
+        "choice2": "Central Beureu of India",
+        "choice3": "Central Bureau of Investigation",
+        "choice4": "None of the mentioned",
+        "answer": 3
+      },
+      {
+        "question": "CBI िा पूर्य रूप क्या है ? (imp.)",
+        "choice1": "Crime Branch of India",
+        "choice2": "Crime Branch of investigation",
+        "choice3": "Crime Branch of importance",
+        "choice4": "None of the above",
+        "answer": 1
+      },
+      {
+        "question": "CCI िा पूर्य रूप क्या है ?",
+        "choice1": "Consumer Confidence Index",
+        "choice2": "Consumers current index",
+        "choice3": "Current consumers index",
+        "choice4": "None of the above",
+        "answer": 1
+      },
+      {
+        "question": "DGCA िा पूर्य रूप क्या है ?",
+        "choice1": "Director General of crime Available",
+        "choice2": "Director General of crime Aviation",
+        "choice3": "Director General of Civil Aviation",
+        "choice4": "None of the above",
+        "answer": 3
+      },
+      {
+        "question": "DIG िा पूर्य रूप क्या है ?",
+        "choice1": "Defence important Group",
+        "choice2": "Defence Intelligence Group",
+        "choice3": "Defence injury Group",
+        "choice4": "None of the above",
+        "answer": 2
+      },
+      {
+        "question": "DMK िा पूर्य रूप क्या है ?",
+        "choice1": "Drone many kids",
+        "choice2": "Dravida Munetra Kazhagam",
+        "choice3": "Drew's mankind kando",
+        "choice4": "none of the mentioned",
+        "answer": 2
+      },
+      {
+        "question": "DRDO िा पू र्य रूप क्या है ? (imp.)",
+        "choice1": "Distribution regards David online",
+        "choice2": "Do Regards Day On",
+        "choice3": "Defence Research and Development Organization",
+        "choice4": "None of the above",
+        "answer": 3
+      },
+      {
+        "question": "DTH िा पूर्य रूप क्या है ? (imp.)",
+        "choice1": "Direct To hone",
+        "choice2": "Direct To Home",
+        "choice3": "Direct to Hole",
+        "choice4": "None of the above",
+        "answer": 2
+      }
 ]
