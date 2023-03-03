@@ -8,10 +8,12 @@ let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
 let availableQuesions = [];
+let data = localStorage.getItem('Data');
+      console.log(data);
 
 let questions = [];
-
-fetch('questions.json')
+if(data == 'Defence'){
+    fetch('another.json')
     .then((res) => {
         return res.json();
     })
@@ -22,12 +24,30 @@ fetch('questions.json')
     .catch((err) => {
         console.error(err);
     });
+}if(data == 'Computer'){
+    fetch('questions.json')
+    .then((res) => {
+        return res.json();
+    })
+    .then((loadedQuestions) => {
+        questions = loadedQuestions;
+        startGame();
+
+    })
+    .catch((err) => {
+        console.error(err);
+    });
+
+}
+
+
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 10;
 
 startGame = () => {
+    localStorage.removeItem('Data');
     questionCounter = 0;
     score = 0;
     availableQuesions = [...questions];
