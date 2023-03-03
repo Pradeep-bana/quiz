@@ -13,7 +13,7 @@ let data = localStorage.getItem('Data');
 
 let questions = [];
 if(data == 'Defence'){
-    fetch('another.json')
+    fetch('full_forms.json')
     .then((res) => {
         return res.json();
     })
@@ -26,6 +26,20 @@ if(data == 'Defence'){
     });
 }if(data == 'Computer'){
     fetch('questions.json')
+    .then((res) => {
+        return res.json();
+    })
+    .then((loadedQuestions) => {
+        questions = loadedQuestions;
+        startGame();
+
+    })
+    .catch((err) => {
+        console.error(err);
+    });
+
+}if(data == 'Chief_Minister'){
+    fetch('cm_capital_governor.json')
     .then((res) => {
         return res.json();
     })
