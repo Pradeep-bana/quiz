@@ -53,6 +53,21 @@ if(data == 'Defence'){
     });
 
 }
+if(data == 'Authors'){
+    fetch('Author.json')
+    .then((res) => {
+        return res.json();
+    })
+    .then((loadedQuestions) => {
+        questions = loadedQuestions;
+        startGame();
+
+    })
+    .catch((err) => {
+        console.error(err);
+    });
+
+}
 
 
 
