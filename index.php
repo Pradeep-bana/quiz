@@ -25,11 +25,11 @@
     <div class="container">
       <div id="home" class="flex-center flex-column">
         <h1>Quick Quiz</h1>
-        <a class="btn" id='cheif_minister' href="game.html" onclick="func4()">Authors</a> 
-        <a class="btn" id='cheif_minister' href="game.html" onclick="func3()">All CM</a>        
-        <a class="btn" id='bana' href="game.html" onclick="func1()">Important Full Forms</a>        
-        <a class="btn" id='computer' href="game.html" onclick="func2()">Computer</a>
-        <a class="btn" href="highscores.html">High Scores</a>
+        <a class="btn" id='cheif_minister' href="game.php" onclick="func4()">Authors</a> 
+        <a class="btn" id='cheif_minister' href="game.php" onclick="func3()">All CM</a>        
+        <a class="btn" id='bana' href="game.php" onclick="func1()">Important Full Forms</a>        
+        <a class="btn" id='computer' href="game.php" onclick="func2()">Computer</a>
+        <a class="btn" href="highscores.php">High Scores</a>
       </div>
     </div>
   </body>

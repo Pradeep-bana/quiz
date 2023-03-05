@@ -26,8 +26,8 @@
       <div id="highScores" class="flex-center flex-column">
         <h1 id="finalScore">High Scores</h1>
         <ul id="highScoresList"></ul>
-        <a class="btn" href="index.html">Go Home</a>
-        <a class="btn" href="highscores.html" onclick="reset()">Reset HighScores</a>
+        <a class="btn" href="index.php">Go Home</a>
+        <a class="btn" href="highscores.php" onclick="reset()">Reset HighScores</a>
       </div>
 
     </div>
